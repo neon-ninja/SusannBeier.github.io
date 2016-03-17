@@ -1,2 +1,1 @@
 # SusannBeier.github.io
-website
